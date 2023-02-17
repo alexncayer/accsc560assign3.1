@@ -14,7 +14,7 @@
 //Original url is 'http://localhost:8000/api/v1.0'
 
 module.exports = {
-    url: 'http://localhost:8000/api/v1.0'
+    url: 'http://127.0.0.1:8000/api/v1.0'
 }
 
 // test/setup_tests.js below
