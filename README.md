@@ -165,7 +165,7 @@ frisby.create('POST invalid email address')
 //for advice on this assignment. 
 //Removing these removed a lot of errors coming from them (Sear, 2023).
 
-//allows user accounts to be made and then sends thoses users to get successful result (Leite, 2015)
+//allows user accounts to be made and then sends those users to get successful result (Leite, 2015)
 TEST_USERS = [{
     'fn' : 'Test', 'ln' : 'User1', 'email' : 'testuser1@example.com', 'pwd' : 'testUser123'
 },{
