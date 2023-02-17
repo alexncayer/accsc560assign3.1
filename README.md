@@ -574,3 +574,17 @@ app.use('/api/v1.0', router);
     "winston": "^3.8.2"
   }
 }
+    
+//End of code here.
+    
+/References below
+    
+//References
+//JavaScript.Info. (n.d.). Functions. Retrieved February 16, 2023, from https://javascript.info/function-basics
+//Studied this web page in order to understand more about functions. Was originally referred to when trying to fix and define functions within the tests/feed.spec.js //file before adding async at the end.
+//Leite, N. (2015, April 14). Building your first application with MongoDB: Creating a REST API using MEAN Stack- Part 1. MongoDB. //https://www.mongodb.com/blog/post/building-your-first-application-mongodb-creating-rest-api-using-mean-stack-part-1
+//Leite, N. (2015, April 16). Building your first application with MongoDB: Creating a REST API using the MEAN Stack- Part 2. MongoDB. //https://www.mongodb.com/blog/post/building-your-first-application-mongodb-creating-rest-api-using-mean-stack-part-2
+//MongoDB. (n.d.). ObjectId. Retrieved February 16, 2023, from https://www.mongodb.com/docs/manual/reference/method/ObjectId/
+//Referred to this page to attempt to define ObjectIDs within the MongoDB for the each of the documents across the 4 collections. But, trying to define them in MongoDB //didn't work as planned and instead, had to resort to typing in the IDs manually so they can be inserted in.
+//Sear, E. (2023, February 10). [Instant messenger interview by A. Cayer].
+//Emailed with Sear, a classmate, in order to get advice on some of the unit 3 material due to having questions regarding these assignments. Mainly was able to fix the //errors that happened from the html tags as present throughout Leite's part 2 of the REST API tutorial. I was able to make further steps from there with her advice on //how to tackle the html tags.
